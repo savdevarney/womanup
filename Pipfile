@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 requests = "*"
 airtable-python-wrapper = "*"
+firebase-admin = "*"
 
 [dev-packages]
 
